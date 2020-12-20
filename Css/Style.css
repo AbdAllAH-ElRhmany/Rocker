@@ -252,6 +252,7 @@ header{
     -moz-transform: scale(0);
     -ms-transform: scale(0);
     -o-transform: scale(0);
+    z-index: 1000000;
     visibility: hidden;
     opacity: 0;
     transition:transform .5s, visibility .5s;
